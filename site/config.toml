@@ -1,18 +1,18 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "No Fancy Theme"
-theme = "nofancy"
+baseurl = "https://daisuke.co/"
+languageCode = "ja-jp"
+title = "Era Skeh dai"
+theme = "BOND"
 
 #if not set copyright, default copyright template will be applied
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+copyright = "Copyright (c) 2017 - 2018, Daisuke Osada (daiskeh); all rights reserved."
 
 [params]
     highlight="Assign a syntax highlight style"
 
 [author]
-    name = "Steve Francia"
-    github = "spf13"
-    linkedin = "YOUR LINKEDIN ID"
-    facebook = "YOUR FB ID"
-    gaID = "YOUR Google Analytics Tracking ID"
-    twitter = "YOUR TWITTER ID"
+    name = "daiskeh"
+    github = "dai"
+    linkedin = "osada"
+    facebook = "daiskeh"
+    gaID = ""
+    twitter = "daisuke"
