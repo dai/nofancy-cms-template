@@ -1,7 +1,7 @@
 baseurl = "https://daisuke.co/"
 languageCode = "ja-jp"
 title = "Era Skeh dai"
-theme = "BOND"
+theme = "nofancy"
 
 #if not set copyright, default copyright template will be applied
 copyright = "Copyright (c) 2017 - 2018, Daisuke Osada (daiskeh); all rights reserved."
